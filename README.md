@@ -15,8 +15,8 @@ We use machine learning algorithms like Logistic Regression, K-Nearest Neighbors
 To run this project, clone the repository and install the necessary dependencies using pip:
 
 ```bash
-git clone https://github.com/yourusername/bank-loan-predictor.git
-cd bank-loan-predictor
+git clone https://github.com/olek-hub/Bank-Loan-Predictor.git
+cd Bank-Loan-Predictor
 pip install -r requirements.txt
 ```
 
