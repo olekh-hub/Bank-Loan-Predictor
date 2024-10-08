@@ -2,7 +2,7 @@
 # Bank Loan Predictor
 
 This project predicts whether a customer will take a personal loan based on various features of their financial status. 
-We use machine learning algorithms like K-Nearest Neighbors (KNN) and Logistic Regression to build and evaluate the models.
+We use machine learning algorithms like Logistic Regression, K-Nearest Neighbors (KNN) Decision Tree and Random Forests to build and evaluate the models.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -26,9 +26,11 @@ Open the Jupyter notebook `BankLoanPredictor.ipynb` and follow the instructions 
 ## Algorithms
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
+- Decision Tree
+- Random Forests
 
 ## Results
-The best-performing model is KNN with optimized `n_neighbors`, showing an F1-score based on the dataset used.
+The best-performing model is Random Forests, showing an F1-score based on the dataset used.
 
 ## License
 MIT License
